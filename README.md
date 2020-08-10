@@ -1,6 +1,7 @@
 # Start_Tensorflow_2.0_Programming
 
-딥러닝 학습 서적 정리
+딥러닝 학습 서적 정리    
+    
 [3장 텐서플로 2.0 시작하기](https://github.com/Johyeonje/-2.0-/blob/master/Start!_chap3.ipynb)    
     
 [4장 회귀](https://github.com/Johyeonje/-2.0-/blob/master/Start!_chap4.ipynb)    
