@@ -1,7 +1,7 @@
 # Deep Learning Books
 딥러닝 학습 서적 정리    
     
-##시작하세요! 텐서플로우 2.0    
+## 시작하세요! 텐서플로우 2.0    
     
 [3장 텐서플로 2.0 시작하기](https://github.com/Johyeonje/-2.0-/blob/master/Start!_chap3.ipynb)    
     
