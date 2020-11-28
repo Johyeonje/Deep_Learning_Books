@@ -25,3 +25,12 @@
 [산탄다르 제품 추천 Compitition](https://github.com/Johyeonje/Deep_Learning_Books/blob/master/2%EC%9E%A5_%EC%82%B0%ED%83%84%EB%8D%B0%EB%A5%B4_%EC%A0%9C%ED%92%88_%EC%B6%94%EC%B2%9C_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.ipynb)   
    
 [포르토 세구로 안전 운전자 예측 Compitition](https://github.com/Johyeonje/Deep_Learning_Books/blob/master/%ED%8F%AC%EB%A5%B4%ED%86%A0_%EC%84%B8%EA%B5%AC%EB%A1%9C_%EC%95%88%EC%A0%84_%EC%9A%B4%EC%A0%84%EC%9E%90_%EC%98%88%EC%B8%A1_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.ipynb)
+   
+   
+## 핸즈온 머신러닝   
+   
+[Hands_on_Part1.ML](https://github.com/Johyeonje/Deep_Learning_Books/blob/master/Hands_On_Part_1_ML.ipynb)   
+   
+[Hands_on_Part2.ML_AtoZ](https://github.com/Johyeonje/Deep_Learning_Books/blob/master/Hands_On_Part_2_ML_A_to_Z.ipynb)   
+   
+[Hands_on_Part10.ANN_with_keras](https://github.com/Johyeonje/Deep_Learning_Books/blob/master/Hands_On_Chap_10_ANN_with_keras.ipynb)   
